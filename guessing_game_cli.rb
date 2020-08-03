@@ -11,3 +11,4 @@ elsif input.to_i == number
     puts "You guessed the correct number!"
 end
 end
+end
